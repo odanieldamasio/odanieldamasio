@@ -7,5 +7,6 @@ Software Engineer | Developer
 
 I’m currently studying Software Engineering, with a focus on web and application development. Right now, I’m working as a full-stack developer, building scalable and efficient solutions.
 
-[![Stack](https://skillicons.dev/icons?i=linux,docker,typescript,nodejs,nestjs,jest,rabbitmq,redis,mongodb,postgres,tailwind,react)](https://skillicons.dev)
+
+[![Stack](https://skillicons.dev/icons?i=typescript,nodejs,nestjs,tailwind,react,linux,docker,jest,rabbitmq,redis,mongodb,postgres)](https://skillicons.dev)
 
